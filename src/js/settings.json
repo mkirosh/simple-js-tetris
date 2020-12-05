@@ -1,0 +1,13 @@
+{
+  "colors": ["#2a9d8f", "#e9c46a", "#f4a261", "#e76f51"],
+  "figures": [
+    { "coords": [[0,0], [1,0], [0,1], [1,1]], "rotation": false},
+    { "coords": [[0,0]], "rotation": false},
+    { "coords": [[0,1], [0,0], [0,-1], [1,-1]], "rotation": true},
+    { "coords": [[-1,0], [0,0], [1,0], [2,0]], "rotation": true},
+    { "coords": [[-1,-1], [0,-1], [0,0], [1,0]], "rotation": true}
+  ],
+  "unit": "35",
+  "board": [15, 20],
+  "bg": "#264653"
+}

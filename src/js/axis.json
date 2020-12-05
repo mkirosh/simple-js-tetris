@@ -1,0 +1,18 @@
+[
+  {
+    "abscissa": { "axis": "x", "polarity": 1 },
+    "ordenate": { "axis": "y", "polarity": 1 }
+  }, 
+  {
+    "abscissa": { "axis": "y", "polarity": -1 },
+    "ordenate": { "axis": "x", "polarity": 1 }
+  },
+  {
+    "abscissa": { "axis": "x", "polarity": -1 },
+    "ordenate": { "axis": "y", "polarity": -1 }
+  },
+  {
+    "abscissa": { "axis": "y", "polarity": 1 },
+    "ordenate": { "axis": "x", "polarity": -1 }
+  }
+]
